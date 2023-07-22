@@ -11,7 +11,7 @@ Inspired by the functioning of our brain's auditory cortex, which processes soun
 We won't be using raw audio, since it can be of any length and our CNN and LSTM model learns from images, therefore we perform some feature extraction, here we are creating mel spectrograms and then feeding them to the model for training.
 
 ### Spectrogram of street music:
-![2](https://github.com/avrilnandini/Audio-classification/assets/28782334/d0cf9b8b-49f6-4302-ab7a-afd5a6d99cf3)
+![image](https://github.com/avrilnandini/Audio-classification/assets/28782334/ce9aa9a5-0467-4aa4-933d-afc657756a5f)
 
 ### About data set:
 
@@ -55,8 +55,9 @@ By this, we achieved test accuracy of around 92%.
 
 ### Output curves:
 
-![accuracy curve](https://github.com/avrilnandini/Audio-classification/assets/28782334/39d53a17-ba86-4c2e-a800-1c186e028102)
+![image](https://github.com/avrilnandini/Audio-classification/assets/28782334/4a3666e6-03d4-40c7-bbc7-1dbbf1bbe197)
 
-![loss curve1](https://github.com/avrilnandini/Audio-classification/assets/28782334/67dd16e2-453c-4e75-8eb1-1611d16208c0)
+![image](https://github.com/avrilnandini/Audio-classification/assets/28782334/e01dd083-73da-40d0-afa4-45d1c79f67bf)
+
 
 
