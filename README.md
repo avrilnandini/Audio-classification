@@ -55,9 +55,10 @@ By this, we achieved test accuracy of around 92%.
 
 ### Output curves:
 
-![image](https://github.com/avrilnandini/Audio-classification/assets/28782334/4a3666e6-03d4-40c7-bbc7-1dbbf1bbe197)
+![image](https://github.com/avrilnandini/Audio-classification/assets/28782334/702ac3b7-0be9-497e-9102-7fca5cd859a3)
 
-![image](https://github.com/avrilnandini/Audio-classification/assets/28782334/e01dd083-73da-40d0-afa4-45d1c79f67bf)
+![image](https://github.com/avrilnandini/Audio-classification/assets/28782334/5787715c-1b88-43dd-9ee0-046ea3151e5f)
+
 
 
 
